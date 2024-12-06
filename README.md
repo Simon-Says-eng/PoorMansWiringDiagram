@@ -35,7 +35,7 @@ The script processes KiCad schematic files, extracting information about buses (
 
 3. **View Output**:
    - The script processes the schematic and displays a table of connections:
-     ```
+```
 Bus Name   Wire Name  To Part - Pin From Part - Pin Description P/N       
 ======================================================================
 DMM_OUT    DMM_1                U5 - +               U2 - OUT_P           N/A                  N/A       
@@ -47,7 +47,7 @@ USB        USB_1                U2 - USB             U4 - USB2            USB Ca
 VCC        AC230V_1             U4 - 230VAC          U6 - 1               test                 123-445-234
 VCC        AC230V_2             U5 - 230VAC          U6 - 2               test                 123-445-234
 VCC        AC230V_3             U1 - 230VAC          U6 - 3               test                 123-445-234
-     ```
+```
 
 ## Future Plans
 
